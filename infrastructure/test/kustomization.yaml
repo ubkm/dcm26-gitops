@@ -5,4 +5,4 @@ kind: Kustomization
 # From here, we pull in all the applications we want to deploy.
 
 resources:
-  - washere
+ # - washere
